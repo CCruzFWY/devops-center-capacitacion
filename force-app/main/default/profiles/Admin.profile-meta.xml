@@ -4,14 +4,6 @@
         <dataCategoryGroup>General</dataCategoryGroup>
         <visibility>ALL</visibility>
     </categoryGroupVisibilities>
-    <classAccesses>
-        <apexClass>SaludoService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>SaludoServiceTest</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>false</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
