@@ -4,10 +4,6 @@
         <dataCategoryGroup>General</dataCategoryGroup>
         <visibility>ALL</visibility>
     </categoryGroupVisibilities>
-    <classAccesses>
-        <apexClass>Clase1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>false</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
